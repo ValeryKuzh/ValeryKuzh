@@ -19,7 +19,7 @@
   ###
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,css,html" height="40" alt="logo"  />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,css,html,js" height="40" alt="logo"  />
     <img width="12" />
   </div>
 
