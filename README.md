@@ -14,7 +14,7 @@
   #
   ###
 
-  <h3 align="left">🛠 Stack:</h3>
+  <h3 align="left">🛠 Skills:</h3>
 
   ###
 
