@@ -48,7 +48,7 @@
   ## 📈 LeetCode Statistics
   <div align="center">
     <a href="https://leetcode.com/u/Valery_K/">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=Valery_K&theme=dark" alt=" ValeryKuzh LeetCode stats ">
+      <img src="https://leetcode-stats-six.vercel.app/api?username=Valery_Kuzh&theme=dark" alt=" ValeryKuzh LeetCode stats ">
     </a>
   </div>
 
