@@ -45,13 +45,4 @@
 
   ###
 
-  ## 📈 LeetCode Statistics
-  <div align="center">
-    <a href = "https://leetcode.com/u/Valery_Kuzh/">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=Valery_Kuzh&theme=dark" alt=" ValeryKuzh LeetCode ">
-    </a>
-  </div>
-
-  ###
-
 
