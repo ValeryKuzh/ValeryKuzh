@@ -6,7 +6,7 @@
     <a href="https://t.me/valery_kuzh" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-008FC7" height="25" alt="telegram logo"  />
     </a>
-    <a href="https://www.linkedin.com/in/valery-kuzhovnik-5954b8307/" target="_blank">
+    <a href="https://www.linkedin.com/in/valery-kuzh/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-004088" height="25" alt="telegram logo"  />
     </a>
   </div>
