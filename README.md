@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-008FC7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/valery_kuzh)
+[![Telegram](https://img.shields.io/badge/Telegram-008FC7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/valery_kuzh_6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-004088?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valery-kuzh/)
 
 </div>
@@ -55,7 +55,7 @@ If you want to collaborate, discuss ideas, or just say hi — feel free to reach
 
 <div align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-008FC7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/valery_kuzh)
+[![Telegram](https://img.shields.io/badge/Telegram-008FC7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/valery_kuzh_6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-004088?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valery-kuzh/)
 
 </div>
