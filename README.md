@@ -40,12 +40,12 @@
 
 ## 📌 What I'm Working On
 
-🧩 Building clean and modular **desktop applications** (WinForms, custom UI components)
-⚙️ Developing **services** and background processing tools
-🏗️ Designing **microservice architectures** with clear boundaries and scalable patterns
-🌐 Working with **web services**, REST APIs, and integration layers
-🗄️ Using various **databases** (SQL, NoSQL) and exploring efficient data access patterns
-🎨 Experimenting with **3D rendering pipelines** and graphics algorithms in C#
+- 🧩 Building clean and modular **desktop applications** (WinForms, custom UI components)
+- ⚙️ Developing **services** and background processing tools
+- 🏗️ Designing **microservice architectures** with clear boundaries and scalable patterns
+- 🌐 Working with **web services**, REST APIs, and integration layers
+- 🗄️ Using various **databases** (SQL, NoSQL) and exploring efficient data access patterns
+- 🎨 Experimenting with **3D rendering pipelines** and graphics algorithms in C#
 
 ---
 
